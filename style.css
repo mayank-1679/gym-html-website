@@ -57,7 +57,7 @@ h4{
 }
 /* HEADER SECTION */
 #header_sec{
-    background: url('../images/header-img.jpg');
+    background: url('./images/header-img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -175,7 +175,7 @@ margin-right: 80px;
 
 /* CHOOSE PROGRAM SECTION STARTS */
 #member_sec{
-background-image: url(../images/cta-bg.jpg);
+background-image: url(./images/cta-bg.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 margin-bottom: 4em;
@@ -249,7 +249,7 @@ border-radius: 6px;
 /* table sec */
 #schedule {
     padding: 0px 0px 90px 0px;
-    background-image: url('../images/schedule-bg.jpg');
+    background-image: url('./images/schedule-bg.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
